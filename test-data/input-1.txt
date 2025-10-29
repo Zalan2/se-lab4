@@ -1,0 +1,3 @@
+GT4500,2,0,10,0     #fills both
+TORPEDO,SINGLE      #shuld fire
+TORPEDO,ALL         #should fire
